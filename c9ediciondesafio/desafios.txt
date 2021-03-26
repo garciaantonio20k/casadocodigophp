@@ -1,0 +1,8 @@
+1. boton cancelar cuando se edita una tarea. boton o link para volver a lista de tareas
+>> Hecho
+
+2. un boton que duplica tarea al lado de editar/borrar
+>> Hecho
+
+3. un boton que borra todas las tareas finalizadas
+
